@@ -1,17 +1,17 @@
 # Daniel Plötzl
 
-Junior SOC / Blue Team–focused cybersecurity candidate currently completing the Computer Software Engineering program at 42 Vienna, with a strong emphasis on Linux systems, networking, and low-level programming.
+Junior SOC / Blue Team–focused cybersecurity candidate currently completing the Computer Software Engineering program at 42 Vienna, with a strong emphasis on Linux systems, networking, and systems programming.
 
 My background combines hands-on systems engineering training with several years of experience in high-responsibility environments. This translates into strong analytical thinking, structured problem solving, and reliability under pressure.
 
 ## Technical Focus
 
 - Linux systems, processes, permissions, and file systems  
-- C and C++ programming, memory management, debugging  
 - Networking fundamentals, TCP/IP, client/server models  
-- Secure coding principles and input validation  
+- Log analysis and operational troubleshooting
 - Process control, signals, and file descriptor management  
-- Log analysis and operational troubleshooting  
+- Secure coding principles, input validation and error handling
+- C and C++ programming, memory management, debugging    
 
 ## Current Focus
 
@@ -29,10 +29,6 @@ My background combines hands-on systems engineering training with several years 
 - **Minishell – Unix shell implementation**  
   Custom shell in C: parsing, pipes, redirections, heredoc, env expansion, signals  
   → https://github.com/idoyoga/minishell
-
-- **ft_irc – IRC server implementation**  
-  Network protocol handling, authentication, concurrency, sockets  
-  → (link to be added)
 
 ## Background
 
