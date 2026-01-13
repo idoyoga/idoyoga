@@ -1,24 +1,23 @@
 # Daniel Plötzl
 
-Junior SOC / Blue Team–focused cybersecurity candidate currently completing the Computer Software Engineering program at 42 Vienna, with a strong emphasis on Linux systems, networking, and systems programming.
+Junior SOC / Blue Team cybersecurity candidate completing the Computer Software Engineering program at 42 Vienna (project-base, peer-to-peer) with focus on incident response, security operations, log analysis, and Linux systems.
 
 My background combines hands-on systems engineering training with several years of experience in high-responsibility environments. This translates into strong analytical thinking, structured problem solving, and reliability under pressure.
 
 ## Technical Focus
 
-- Linux systems, processes, permissions, and file systems  
-- Networking fundamentals, TCP/IP, client/server models  
-- Log analysis and operational troubleshooting
-- Process control, signals, and file descriptor management  
-- Secure coding principles, input validation and error handling
-- C and C++ programming, memory management, debugging    
+- Incident response: log analysis, alert triage, threat investigation
+- Security operations: authentication, access control, hardening, monitoring
+- Linux security: system administration, SSH hardening, firewall configuration, permissions
+- Network security: TCP/IP protocols, client/server architecture, traffic analysis
+- Scripting and automation: bash, parsing logs, security tool development
 
 ## Current Focus
 
-- Defensive security fundamentals  
-- Security Operations Center (SOC) workflows  
-- Incident analysis and alert triage  
-- System behavior and attack surface reduction  
+- Security Operations Center (SOC) workflows
+- Incident analysis and alert triage
+- Defensive security fundamentals
+- System behavior and attack surface reduction
 
 ## Selected Projects
 
@@ -36,7 +35,7 @@ My background combines hands-on systems engineering training with several years 
 
 ## Background
 
-Before transitioning into cybersecurity and systems engineering, I worked in programme management, organisational development, and operational roles in high-responsibility environments. This background strengthens my ability to operate in structured, process-driven contexts such as security operations.
+Before transitioning into cybersecurity and systems engineering, I worked in program management, organisational development, and operational roles in high-responsibility environments. This background strengthens my ability to operate in structured, process-driven contexts such as security operations.
 
 ## Location
 
