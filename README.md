@@ -21,9 +21,9 @@ My background combines hands-on systems engineering training with several years 
 
 ## Selected Projects
 
-- **auth-triage – SSH authentication log analyzer**
+- **soc-auth-triage – SSH authentication log analyzer**
   SOC triage tool for analyzing failed SSH attempts, brute-force detection, credential stuffing
-  → https://github.com/idoyoga/auth-triage
+  → https://github.com/idoyoga/soc-auth-triage
 
 - **Born2BeRoot – Linux hardening & baseline security**  
   Hardened Linux VM, access control, SSH hardening, firewalling, monitoring  
