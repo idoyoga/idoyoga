@@ -1,6 +1,6 @@
 # Daniel Plötzl
 
-Junior SOC / Blue Team cybersecurity candidate completing the Computer Software Engineering program at 42 Vienna (project-based, peer-to-peer) with focus on incident response, security operations, log analysis, and Linux systems.
+Junior IT Security / Cybersecurity Analyst candidate completing the Computer Software Engineering program at 42 Vienna (project-based, peer-to-peer) with focus on incident response, threat detection, log analysis, and Linux systems.
 
 My background combines hands-on technical training with several years of experience in high-responsibility environments (program management, operations, organizational development). This translates into strong analytical thinking, structured incident handling, clear communication under pressure, and reliability in security operations.
 
@@ -26,7 +26,7 @@ My background combines hands-on technical training with several years of experie
 ## Technical Focus
 
 - **Incident response**: log analysis, alert triage, threat investigation
-- **Security operations**: authentication, access control, hardening, monitoring
+- **Threat detection**: authentication monitoring, brute-force detection, pattern recognition
 - **Linux security**: system administration, SSH hardening, firewall configuration, permissions
 - **Network security**: TCP/IP protocols, client/server architecture, traffic analysis
 - **Scripting and automation**: bash, parsing logs, security tool development
